@@ -103,5 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-default-ocr
+default-ocr/
+ __pycache__ /
 
