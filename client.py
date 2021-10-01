@@ -5,7 +5,7 @@ url = "http://127.0.0.1:5000/easyocr"
 
 begin = time.time()
 
-input_directory = "/home/shreyastaware/Desktop/python_scraping/captcha_decoder_api/IMAGES/2-gujrat-univ/total_images"
+input_directory = "/home/shreyastaware/Desktop/python_scraping/captcha_decoder_api/IMAGES/2-gujrat-univ/Gujrat_captcha"
 
 imgs = glob.glob(os.path.join(input_directory, "*"))
 
